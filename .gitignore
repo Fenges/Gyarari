@@ -1,0 +1,33 @@
+# Dependencies #
+node_modules/
+
+# dotenv environment variables files #
+.env
+.env.*
+.idea
+
+Desktop.ini
+
+logs
+*.log
+npm-debug.log*
+
+# Notes #
+__ignore__/
+
+# Packages #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Production #
+build/
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
